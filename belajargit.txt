@@ -2,3 +2,5 @@
 #git config --global user.name "muamaramar141203"
 jumat : 13 agustus 2024
 saya sudah melakukan proses upload di github
+sabtu : 14 agustus 
+sudah proses migrasi
